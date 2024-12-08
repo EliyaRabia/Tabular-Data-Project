@@ -30,6 +30,7 @@ The dataset used in this project is the **Uncleaned Laptop Price Dataset** from 
 
 ### Step 2: Install Required Libraries
 Install the libraries listed in `requirements.txt` by opening the terminal with the following command:
+
    pip install -r requirements.txt
 
 <hr>
