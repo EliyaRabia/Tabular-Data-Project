@@ -1,7 +1,7 @@
 # Laptop Price Prediction Project
 
 ## Overview
-This project aims to predict laptop prices based on various features such as CPU, RAM, GPU, and more. Using machine learning and Data science methods to provide accurate predictions for the price of a laptop. 
+This project aims to predict laptop prices based on various features such as CPU, RAM, GPU, and more. Machine learning and data science methods are used to provide accurate predictions for the price of a laptop. 
 
 The dataset used in this project is the **Uncleaned Laptop Price Dataset** from [Kaggle](https://www.kaggle.com/datasets/ehtishamsadiq/uncleaned-laptop-price-dataset). It contains details about laptops, such as company, specifications, prices...
 <hr>
@@ -37,5 +37,6 @@ Install the libraries listed in `requirements.txt` by opening the terminal with 
 
 ## Running the Project
 Click on Run All
+
 And enjoy :)
 
